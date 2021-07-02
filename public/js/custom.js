@@ -1,0 +1,1 @@
+const lang = navigator.language
